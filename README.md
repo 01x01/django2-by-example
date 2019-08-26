@@ -2,10 +2,10 @@
 Django2 by example
 
 # 第一章
-[x] 安装 Django 并创建第一个应用
-[x] 设计 models 并完成数据库迁移
-[x] 创建 Admin 站点
-[x] 使用 QuerySet 和 mangers
-[x] 构建视图，模板，URL
-[x] 分页
-[x] Django 的类视图
+1. 安装 Django 并创建第一个应用
+2. 设计 models 并完成数据库迁移
+3. 创建 Admin 站点
+4. 使用 QuerySet 和 mangers
+5. 构建视图，模板，URL
+6. 分页
+7. Django 的类视图
